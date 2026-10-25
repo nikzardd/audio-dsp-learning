@@ -76,7 +76,7 @@ For notebooks, run `jupyter lab`.
 ## About me
 I'm a musician and singer-songwriter interested in the intersection of music, technology, audio DSP, and cultural heritage. I'm using this repository to document my technical learning in public, one experiment at a time.
  
-**Instagram:** @nikzard
+**Instagram:** [@nikzard](https://www.instagram.com/nikzard/)
 **LinkedIn:** https://www.linkedin.com/in/nikzard/
 
 ---
